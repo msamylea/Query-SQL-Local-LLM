@@ -1,4 +1,7 @@
 # Query-SQL-Local-LLM
+
+TESTCHANGES file will contain working updates and may or may not function correctly.
+
 Query a SQL database using a local LLM.
 
 pip install streamlit
